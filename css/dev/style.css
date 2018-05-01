@@ -58,7 +58,7 @@ nav li:hover {
 .button {
     position: relative;
     top: 0px;
-    transition: top ease 0.1s;
+    transition: all ease 0.1s;
     padding: 0.5em 1em;
     margin: 1em 1.5em;
 }
@@ -74,7 +74,7 @@ nav li:hover {
 .button:active {
     position: relative;
     top: 0px;
-    box-shadow: 2px 2px 2px -1px rgba(0,0,0,0.3);
+    box-shadow: 4px 4px 5px -4px rgba(0,0,0,0.3);
     background-color: rgba(255, 255, 255, 0.1);
     color: #fff;
 }
