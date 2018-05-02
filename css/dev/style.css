@@ -43,6 +43,7 @@ a {
 nav li {
     display: inline-block;
     padding: 0.5em 1em;
+    margin: 1em 1.5em;
     cursor: pointer;
     border-radius: 2px;
 }
@@ -60,7 +61,6 @@ nav li:hover {
     top: 0px;
     transition: all ease 0.1s;
     padding: 0.5em 1em;
-    margin: 1em 1.5em;
 }
 
 .button:hover {
@@ -100,8 +100,15 @@ footer {
     padding: 10px;
 }
 
-@media only screen and (max-width: 676px) {
+@media screen and (max-width: 710px) {
     .hidemobile {
         display: none;
+    }
+    nav ul {
+        padding-left: 0.5em;
+    }
+
+    nav li {
+        margin: 1em 0.5em;
     }
 }
