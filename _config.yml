@@ -1,5 +1,8 @@
-theme: jekyll-theme-minimal
 title: "Stef Pletinck"
 logo: "assets/epse.png"
 description: "Personal website and blog of developer Stef Pletinck"
 author: Stef Pletinck
+
+sass:
+  sass_dir: _sass
+  style: compressed
