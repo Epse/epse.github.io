@@ -14,3 +14,5 @@ I occasionally make music.
 I made a thing named EpPOS, developed the Kazou Games Database
 and currently develop a piece of business management software with invoicing and the entire shebang.
 
+## Blog
+I have a [blog](/blog) on here as well. Take a look.
