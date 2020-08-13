@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Stef Pletinck
 description: Personal website and blog of developer Stef Pletinck
+plugins:
+    - jekyll-multiple-languages-plugin
