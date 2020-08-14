@@ -1,4 +1,5 @@
 # Hi, I'm Stef
+[Nederlandstalige versie](/nl)
 
 I'm an industrial engineering student (field of electronics-ICT) at Ghent University and developer.
 I know more languages than are appropriate to list, but currently have a job in PHP with Laravel and MySQL and some light Vue.js.
