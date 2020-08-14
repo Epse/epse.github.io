@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-    border-right: 3px solid black;
+    border-right: 3px solid #111;
     max-width: calc(400px - 5px);
     font-family: 'Fira Sans';
 }
@@ -70,4 +70,11 @@ pre code {
 
 pre {
     padding: 1em;
+}
+
+blockquote {
+    margin: 1em 1.5em;
+    padding-left: 0.5em;
+    font-style: italic;
+    border-left: 1px solid #111;
 }
