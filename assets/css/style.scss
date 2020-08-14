@@ -3,6 +3,7 @@
 ---
 
 @import "charter";
+@import "monokai";
 
 html {
     background: #eee;
@@ -57,5 +58,16 @@ header {
 pre, code {
     font-family: 'Fira Mono';
     background: #ccc;
-    padding: 0.25rem;
+    padding: 0.25em;
+    overflow: auto;
+}
+
+// Only apply specific styling to inline code
+pre code {
+    background: inherit;
+    padding: 0;
+}
+
+pre {
+    padding: 1em;
 }
