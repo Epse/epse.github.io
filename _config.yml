@@ -10,3 +10,4 @@ sass:
 
 plugins:
   - jekyll-feed
+  - jekyll-gist
