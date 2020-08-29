@@ -1,7 +1,7 @@
 ---
 title: Building rich search using Laravel and Vue.js
 description: I set out to build a better customer search for our CRM and invoicing solution, using Laravel and Vue.js.
-tags: Laravel, Vue
+tags: Laravel Vue
 mirrors:
     -
         host: "Dev.to"
