@@ -6,13 +6,13 @@ tags: openwifi
 
 [OpenWiFi](https://github.com/open-sdr/openwifi) is an FPGA[^1] and SDR[^2] implementation of the [IEEE 802.11 a/g/n standard](https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68) (WiFi, for us common folk).
 Essentially, it's a WiFi chip, like you'd find in your phone or a router, but open source and written in Verilog.
-For more introductory reading, see the paper[^3].
+For more introductory reading, see the paper[^3] or the [talk](https://www.youtube.com/watch?v=Mq48cGthk7M&feature=youtu.be) on FOSDEM.
 This series of blog posts will document my experiences learning and researching.
 
 
 ## Why?
 OpenWiFi exists for research and very little else at this point, as FPGA's are expensive and quite large.
-It allows one to test even some very [funky ideas](/assets/cross_course_project_openwifi_2020.pdf).
+It allows one to test even some [very](https://www.youtube.com/watch?v=Notn9X482LI&feature=youtu.be) [funky ideas](/assets/cross_course_project_openwifi_2020.pdf).
 The FPGA can do all kinds of fun stuff that normal WiFi cards don't support (they tend to be really cost-oriented) or won't allow.
 
 For this research project, we'll look at using the openwifi project to do security testing of WiFi networks and develop testing equipment.
