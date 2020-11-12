@@ -1,4 +1,5 @@
 # Hi, I'm Stef
+
 [Nederlandstalige versie](/nl)
 
 I'm an industrial engineering student (field of electronics-ICT) at Ghent University and developer.
@@ -11,9 +12,15 @@ I play the piano.
 
 I occasionally make music.
 
+## Pay me
+
+Do you want to pay me for something? Want me to work for you? Have a look at [my business page](/business).
+
 ## Projects
+
 I made a thing named EpPOS, developed the Kazou Games Database
 and currently develop a piece of business management software with invoicing and the entire shebang.
 
 ## Blog
+
 I have a [blog](/blog) on here as well. Take a look.

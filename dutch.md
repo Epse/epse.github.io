@@ -17,9 +17,15 @@ Ik ben (hoofd)animator bij Kazou.
 
 Af en toe schrijf ik muziek.
 
+## Betaal mij
+
+Heb je werk voor mij? Iets dat ik voor je kan doen? Server hosting? Kijk even naar mijn [business-pagina](/business/).
+
 ## Projects
+
 Ik heb een ding genaamd EpPOS gemaakt en ontwikkelde de [Kazou Spelendatabase](https://spelendatabase.kazou-ovl.be).
 Voor mijn werk maak ik momenteel software die een heel IT-bedrijf runt, van klantbeheer tot facturatie.
 
 ## Blog
+
 Ik heb hier een [blog](/blog). De meeste posts zijn in het Engels, sommige zijn tweetalig.
