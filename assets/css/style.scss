@@ -33,7 +33,7 @@ footer {
 }
 
 section {
-    max-width: 725px;
+    max-width: 600px;
 }
 
 a, a:visited {
@@ -50,13 +50,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-    border-right: 3px solid #111;
-    max-width: calc(400px - 5px);
-    font-family: 'Fira Sans';
+    max-width: 300px; // Width of my logo
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    h1 {
+        font-weight: normal;
+    }
 }
 
 pre, code {
-    font-family: 'Fira Mono';
+    font-family: 'Fira Mono', monospace;
     background: #ccc;
     padding: 0.25em;
     overflow: auto;
